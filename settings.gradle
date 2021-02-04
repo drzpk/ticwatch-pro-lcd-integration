@@ -1,2 +1,5 @@
+include ':core:ticwatchprolcdintegration'
+include ':core'
+include ':phone'
+include ':wear'
 rootProject.name='TicWatch LCD integration'
-include ':app'
